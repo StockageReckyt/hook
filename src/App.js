@@ -1,6 +1,6 @@
 import React from "react";
 
-import Counter from "./component/Counter";
+import Counter from "./components/Counter";
 
 function App() {
   // Déclare une nouvelle variable d'état, qu’on va appeler « count »
